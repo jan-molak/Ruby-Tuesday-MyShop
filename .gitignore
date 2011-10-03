@@ -1,1 +1,4 @@
 .rvmrc
+*.iml
+.idea
+.bundle
